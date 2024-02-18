@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about Java/Rust any issue
 
-![XiaoZiShan's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoZiShan&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy)![Most use](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoZiShan&layout=compact)
+![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoZiShan&show_icons=true&theme=transparent)
+
 
