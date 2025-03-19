@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Ask me about Java/Rust any issue
+💬 Ask me about Java/Rust/React any issue
 
 |![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoZiShan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vue)|![Most use](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoZiShan&layout=compact&theme=vue)|
 | ------------- | ------------- |
