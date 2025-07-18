@@ -1,7 +1,7 @@
 ### Hi I'm Jasper 👋
 
 <!--
-**XiaoZiShan/XiaoZiShan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JasperYou/JasperYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about Java/Rust/React any issue
 
-|![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoZiShan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vue)|![Most use](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoZiShan&layout=compact&theme=vue)|
+|![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasperYou&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=vue)|![Most use](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperYou&layout=compact&theme=vue)|
 | ------------- | ------------- |
 
