@@ -7,7 +7,7 @@
 </picture>
 
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/README.md-->
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasperyou&theme=nord_bright" style="width: 650px;" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jasperyou&theme=nord_bright&utcOffset=8" style="width: 315px;" />
+<div style="display: flex; justify-content: center; align-items: center;">
+   <img style="max-width: 50%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasperyou&theme=nord_bright"/>
+   <img style="max-width: 24%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jasperyou&theme=nord_bright&utcOffset=8"/>
 </div>
