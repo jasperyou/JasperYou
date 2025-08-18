@@ -8,6 +8,6 @@
 
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/README.md-->
 <div style="display: flex; justify-content: center; align-items: center;">
-   <img style="max-width: 50%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasperyou&theme=nord_bright"/>
-   <img style="max-width: 24%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jasperyou&theme=nord_bright&utcOffset=8"/>
+  <img style="max-width: 70%; height: auto;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasperyou&theme=nord_bright"/>
+  <img style="max-width: 30%; height: auto;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jasperyou&theme=nord_bright&utcOffset=8"/>
 </div>
