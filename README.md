@@ -1,3 +1,9 @@
+<!--
+Hi, I am Jasper, a full-stack developer. Here is my future profile.
+Key Skills for the Future: Java/Next.js + React/Rust/Python 
+Key Domain for the Future: AI/Blockchain/First-class Hardware/Open Source
+-->
+
 <!--https://github.com/LuciNyan/pixel-profile -->
 <picture decoding="async" loading="lazy">
     <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jasperyou&screen_effect=false&theme=summer&dithering=true&hide=avatar">
