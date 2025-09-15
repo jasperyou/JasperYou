@@ -17,3 +17,8 @@ Key Domain for the Future: AI/Blockchain/First-class Hardware/Open Source
     <img style="width: 560px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasperyou&theme=nord_bright" />
     <img style="width: 275px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jasperyou&theme=nord_bright&utcOffset=8" />
 </div>
+
+<!-- The one GIF image from https://github.com/kyechan99/capsule-render -->
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=86&section=footer" />
+</p>
