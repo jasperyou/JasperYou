@@ -19,6 +19,6 @@ Key Domain for the Future: AI/Blockchain/First-class Hardware/Open Source
 </div>
 
 <!-- The one GIF image from https://github.com/kyechan99/capsule-render -->
-<p>
+<!-- <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=86&section=footer" />
-</p>
+</p> -->
